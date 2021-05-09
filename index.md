@@ -28,9 +28,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-bici-carriles)*  |  *[Generar issue](https://github.com/opencitydata/transporte-bici-carriles/issues)*   | Toda la información util para la bici en la ciudad:  Carriles bici   Calles tranquilas   Vias ciclistas   Carriles de velocidad reducidad    Avanza bici    Aparcamiento para bicis   Fuentes de agua ... |  |  | |   |   |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Transporte | Inexistente | *[Repositorio](https://github.com/opencitydata/transporte-bici-carriles)*  |  *[Generar issue](https://github.com/opencitydata/transporte-bici-carriles/issues)*   | Toda la información util para la bici en la ciudad:  Carriles bici   Calles tranquilas   Vias ciclistas   Carriles de velocidad reducidad    Avanza bici    Aparcamiento para bicis   Fuentes de agua ... | 
  
  
   
